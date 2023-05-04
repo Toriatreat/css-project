@@ -1,0 +1,14 @@
+body{
+    background-color:#d8cdb0a7;
+    margin: 0;
+    padding: 0;
+}
+/* header */
+header h1{
+    text-align: center;
+}
+/* header paragraph */
+header p{
+    font-size: 1.5em;
+    font-weight: 400;
+}
